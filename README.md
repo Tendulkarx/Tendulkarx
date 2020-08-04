@@ -1,7 +1,7 @@
 
 #### Hey! 👋
 
-#### I'm a developer with skills to help business' achieve thier goals through providing reliable data, effective reporting and stable application solutions.
+#### I'm a developer with skills to help businesses achieve thier goals through providing reliable data, effective reporting and stable application solutions.
 - 📚 I’m currently learning Springboot, JPA, Angular and Python 🤣
 - 🥅 2020 Goals: Become a stronger Java Developer, introduce python within my skillset
 - 🤝 I’m looking to collaborate with other developers, creators and mentors
