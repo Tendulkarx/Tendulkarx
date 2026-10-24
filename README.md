@@ -1,29 +1,9 @@
+# O'Neil Blake
 
-#### Hey! 👋
+Data engineer and software developer. I build data warehouses and the Python tooling around them.
 
-#### I'm a developer with skills to help businesses achieve thier goals through providing reliable data, effective reporting and stable application solutions.
-- 📚 I’m currently learning Springboot, JPA, Angular and Python
-- 🥅 Goals: Become a better Java Developer, introduce python within my skillset
-- 🤝 I’m looking to collaborate with other developers, creators and mentors
-- ⚡ Fun fact: I'm a technology enthusiast, cricketer and loves digital creativity(art, UI/UX and architectural)
+Outside work I build developer tools and run a homelab defined as code.
 
-#### Connect with me:
+**Tools:** Python · SQL · Oracle · TypeScript · Java · Docker · Terraform · Ansible
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-#### My Stats:
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tendulkarx&show_icons=true&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tendulkarx&show_icons=true&hide_border=true" />
-
-
-
-
-
-
-[twitter]: https://twitter.com/Turbbx
-[instagram]: https://instagram.com/turbx
-[linkedin]: https://www.linkedin.com/in/oneilblake
+[LinkedIn](https://www.linkedin.com/in/oneilblake)
