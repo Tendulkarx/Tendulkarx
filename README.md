@@ -1,6 +1,6 @@
 # O'Neil Blake
 
-Data engineer and software developer. I build data warehouses and the Python tooling around them.
+Data engineer and software developer.
 
 Outside work I build developer tools and run a homelab defined as code.
 
